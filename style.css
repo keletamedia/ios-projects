@@ -1,0 +1,35 @@
+img {
+	border-radius: 3em;
+}
+
+
+.col-md-12 {
+	text-align: center;
+	padding: 2em;
+}
+
+.content {
+	padding: 1em;
+	display: inline-block;
+	vertical-align: middle;
+	width: 45%;
+	text-align: left;
+	margin: auto;
+}
+
+h3 {
+	margin: 2em 0;
+} 
+
+
+.description_paragraph {
+	display: inline;
+  line-height: 3em;
+  letter-spacing: 0.05em;
+}
+
+footer {
+	text-align: center;
+	opacity: .7;
+	margin: 2em 0;
+}
