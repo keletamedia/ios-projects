@@ -33,3 +33,9 @@ footer {
 	opacity: .7;
 	margin: 2em 0;
 }
+
+@media only screen and (max-device-width: 667px) { 
+   	.content {
+		display: block;
+	}
+}
